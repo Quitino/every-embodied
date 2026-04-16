@@ -55,7 +55,7 @@
   cd every-embodied
   
   # 2. 创建并激活 Conda 环境
-  conda create -n embodied python=3.8
+  conda create -n embodied python=3.10
   conda activate embodied
   
   # 3. 安装依赖并运行基础机械臂抓取 Demo

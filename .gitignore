@@ -203,3 +203,5 @@ artifacts/
 # Keep ebook web shared logic tracked
 !web/lib/
 !web/lib/*.js
+.claude
+.vscode
